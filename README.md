@@ -6,3 +6,5 @@ This project contains:
  2. - ER/EER diagram - Chen model
  3. - Relational scheme
  4. - MySQL database, exported .sql file. Screenshots of all physical tables.
+
+I used great online software for drawing graphs, diagrams, schemes etc. called www.edrawmax.com. You need to sign in and you are free to use it, but you can not export that file if you do not have licence.
